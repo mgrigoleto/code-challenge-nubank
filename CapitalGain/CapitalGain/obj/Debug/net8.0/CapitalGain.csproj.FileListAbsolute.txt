@@ -1,0 +1,14 @@
+D:\Development\C# Udemy\CapitalGain\CapitalGain\bin\Debug\net8.0\CapitalGain.exe
+D:\Development\C# Udemy\CapitalGain\CapitalGain\bin\Debug\net8.0\CapitalGain.deps.json
+D:\Development\C# Udemy\CapitalGain\CapitalGain\bin\Debug\net8.0\CapitalGain.runtimeconfig.json
+D:\Development\C# Udemy\CapitalGain\CapitalGain\bin\Debug\net8.0\CapitalGain.dll
+D:\Development\C# Udemy\CapitalGain\CapitalGain\bin\Debug\net8.0\CapitalGain.pdb
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.AssemblyInfoInputs.cache
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.AssemblyInfo.cs
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.csproj.CoreCompileInputs.cache
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.dll
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\refint\CapitalGain.dll
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.pdb
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\CapitalGain.genruntimeconfig.cache
+D:\Development\C# Udemy\CapitalGain\CapitalGain\obj\Debug\net8.0\ref\CapitalGain.dll

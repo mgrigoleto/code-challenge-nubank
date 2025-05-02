@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development\\C# Udemy\\CapitalGain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|d:\\development\\c# udemy\\capitalgain\\capitalgain\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|solutionrelative:capitalgain\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|d:\\development\\c# udemy\\capitalgain\\capitalgain\\capitalgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|solutionrelative:capitalgain\\capitalgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|d:\\development\\c# udemy\\capitalgain\\capitalgain\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|solutionrelative:capitalgain\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|d:\\development\\c# udemy\\capitalgain\\capitalgain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACED337-9597-4734-A890-853DDEABB906}|CapitalGain\\CapitalGain.csproj|solutionrelative:capitalgain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\README.md",
+              "RelativeDocumentMoniker": "CapitalGain\\README.md",
+              "ToolTip": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\README.md",
+              "RelativeToolTip": "CapitalGain\\README.md",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-02T20:54:39.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CapitalGain.cs",
+              "DocumentMoniker": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\CapitalGain.cs",
+              "RelativeDocumentMoniker": "CapitalGain\\CapitalGain.cs",
+              "ToolTip": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\CapitalGain.cs",
+              "RelativeToolTip": "CapitalGain\\CapitalGain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:35:57.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\Operation.cs",
+              "RelativeDocumentMoniker": "CapitalGain\\Operation.cs",
+              "ToolTip": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\Operation.cs",
+              "RelativeToolTip": "CapitalGain\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:51:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\Program.cs",
+              "RelativeDocumentMoniker": "CapitalGain\\Program.cs",
+              "ToolTip": "D:\\Development\\C# Udemy\\CapitalGain\\CapitalGain\\Program.cs",
+              "RelativeToolTip": "CapitalGain\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:50:25.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

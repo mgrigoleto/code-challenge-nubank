@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CapitalGain
-build_property.ProjectDir = D:\Development\C# Udemy\CapitalGain\CapitalGain\
+build_property.ProjectDir = D:\Development\C# Udemy\code-challenge-nubank\CapitalGain\CapitalGain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

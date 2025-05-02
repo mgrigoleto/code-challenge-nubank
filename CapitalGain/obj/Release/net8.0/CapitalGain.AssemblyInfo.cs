@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("CapitalGain")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22b41b9705f3bb9d248061c950b3d20ea964518f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CapitalGain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CapitalGain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
